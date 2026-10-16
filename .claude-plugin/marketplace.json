@@ -1,0 +1,15 @@
+{
+  "name": "reshape",
+  "description": "Close the gaps in a PRD by interviewing its owner, then writing the answers back into the PRD itself.",
+  "owner": {
+    "name": "Shubhransh Bhaskar",
+    "url": "https://github.com/iamshubhransh"
+  },
+  "plugins": [
+    {
+      "name": "reshape",
+      "source": "./plugins/reshape",
+      "description": "Reads a PRD plus its notes and team template, finds what a designer or engineer would otherwise have to guess, asks the critical questions one at a time with a recommended answer for each, and writes every answer back into the PRD with a decision log and owner-tagged open questions."
+    }
+  ]
+}

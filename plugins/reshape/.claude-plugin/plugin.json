@@ -1,0 +1,13 @@
+{
+  "name": "reshape",
+  "description": "Close the gaps in a PRD by interviewing its owner in chat, one question at a time with a recommended answer, then writing every answer back into the PRD itself.",
+  "version": "2.1.0",
+  "author": {
+    "name": "Shubhransh Bhaskar",
+    "url": "https://github.com/iamshubhransh"
+  },
+  "homepage": "https://github.com/iamshubhransh/reshape",
+  "repository": "https://github.com/iamshubhransh/reshape",
+  "license": "MIT",
+  "keywords": ["prd", "product-management", "spec", "requirements", "review", "interview"]
+}
